@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/Full Stack Roadmap/Roadmap.md",
+                "file": "Full Stack/Phase 0/Phase 0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Phase 0.1"
             }
           }
         ]
@@ -190,6 +190,8 @@
   "active": "33e6ac3debb07713",
   "lastOpenFiles": [
     "Full Stack/Full Stack Roadmap/Roadmap.md",
+    "Full Stack/Phase 0/Phase 0.1.md",
+    "Full Stack/Phase 0",
     "Business/Business Roadmap/Roadmap.md",
     "Full Stack/Full Stack Roadmap",
     "Full Stack/Roadmap/Full Stack Roadmap.md",
@@ -211,7 +213,6 @@
     "Data Science/Phase 1",
     "Data Science/Data Science Roadmap",
     "Data Science/Phase 0",
-    "Data Science",
     "MINE.md",
     "SnapAttend.md",
     "Orbit/Phase 1/Orbit Phase 1.2.md",
