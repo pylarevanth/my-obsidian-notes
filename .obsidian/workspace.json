@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "c7351db37d17907f",
+    "type": "split",
+    "children": [
+      {
+        "id": "930ba1db57d76fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75d1421710db40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack/Roadmap/Full Stack Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Full Stack Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "152d15e1eee63bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "94efc0e180b37096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7314b6fb21a60a3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5036f659fe9d538e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "630ff57852da1610",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "012f9717830c8e21",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af222ad71a98826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7973c1bf6ea0c25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "93d64233ce2f9999",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orbit Phase 0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "118a232739cedbe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9db43b09bdafe9f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "68ad7f94e07e0d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orbit Phase 0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c75d1421710db40f",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Business/Roadmap/Business Roadmap.md",
+    "Business/Phase 0/Phase 0.1.md",
+    "AI Engineering/AI Engineering Roadmap/Roadmap.md",
+    "Data Science/Data Science Roadmap/Roadmap.md",
+    "Full Stack/Roadmap/Full Stack Roadmap.md",
+    "Full Stack/Roadmap",
+    "Full Stack",
+    "Data Science/Data Science Roadmap/Roadmap Tree.md",
+    "AI Engineering/AI Engineering Roadmap",
+    "Data Science/Phase 0/🐍 Phase 0 Roadmap.md",
+    "AI Engineering/Phase 1/Phase 1.2.md",
+    "AI Engineering/Phase 1/Phase 1.1.md",
+    "AI Engineering/Phase 1/Phase 1 AI Prerequisites.md",
+    "Business/Phase 0",
+    "Data Science/Phase 0/🐍 Phase 0.1.1 — Variables, Data Types & Type Conversion.md",
+    "Data Science/Phase 0/🐍 Phase 0.1.2 — Operators, Input ,Outputs, Conditional Statements.md",
+    "Data Science/Phase 1",
+    "Data Science/Data Science Roadmap",
+    "Data Science/Phase 0",
+    "Data Science",
+    "MINE.md",
+    "Business/Roadmap",
+    "Business",
+    "SnapAttend.md",
+    "Orbit/Phase 1/Orbit Phase 1.2.md",
+    "Orbit/Phase 1/Orbit Phase 1.1.md",
+    "Orbit/Phase 0/Orbit Phase 0.2.md",
+    "Orbit/Phase 1.md",
+    "Orbit/Phase 0/Orbit Phase 0.3.md",
+    "Orbit/Phase 0/Orbit Phase 0.1.md"
+  ]
+}
