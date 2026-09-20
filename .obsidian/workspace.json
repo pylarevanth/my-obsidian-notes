@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5bcc2b3ade8bef2",
+        "id": "0a4d0dfdbcb736c8",
         "type": "tabs",
         "children": [
           {
-            "id": "7bede967821f7e3c",
+            "id": "33e6ac3debb07713",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack/Full Stack Roadmap/Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Roadmap"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 537.5044631958008
   },
   "right": {
     "id": "012f9717830c8e21",
@@ -183,14 +187,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "7314b6fb21a60a3c",
+  "active": "33e6ac3debb07713",
   "lastOpenFiles": [
+    "Full Stack/Full Stack Roadmap/Roadmap.md",
+    "Business/Business Roadmap/Roadmap.md",
+    "Full Stack/Full Stack Roadmap",
+    "Full Stack/Roadmap/Full Stack Roadmap.md",
     "Untitled.base",
-    "Business/Roadmap/Business Roadmap.md",
     "Business/Phase 0/Phase 0.1.md",
     "AI Engineering/AI Engineering Roadmap/Roadmap.md",
     "Data Science/Data Science Roadmap/Roadmap.md",
-    "Full Stack/Roadmap/Full Stack Roadmap.md",
     "Full Stack/Roadmap",
     "Full Stack",
     "Data Science/Data Science Roadmap/Roadmap Tree.md",
@@ -207,8 +213,6 @@
     "Data Science/Phase 0",
     "Data Science",
     "MINE.md",
-    "Business/Roadmap",
-    "Business",
     "SnapAttend.md",
     "Orbit/Phase 1/Orbit Phase 1.2.md",
     "Orbit/Phase 1/Orbit Phase 1.1.md",
