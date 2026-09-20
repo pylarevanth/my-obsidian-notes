@@ -12,7 +12,7 @@ Production Engineering is **embedded into the Full Stack journey**, rather than 
 
 # 🏗️ THE MAIN PROJECT — SHOPFLOW
 
-We'll progressively evolve one application.
+We'll progressively evolve one application
 
 ## ShopFlow
 
